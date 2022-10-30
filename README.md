@@ -9,3 +9,9 @@ A program that contains the functionality of an ATM and all of its uses
 - <b>Switch statement used to create the menu <b>
 - <b>Modules used to perform some of the menu options <b>
 - <b>If and While statements used to test certain variables <b>
+
+<p align="center">
+Menu Screen: <br/>
+<img src="https://i.imgur.com/liJGKtt.png" height="70%" width="70%" alt="Menu Screen"/>
+<br />
+<br />
