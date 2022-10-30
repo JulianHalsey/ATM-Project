@@ -1,5 +1,5 @@
 <h1>ATM Project</h1>
-A program that contains the functionality of an ATM
+A program that contains the functionality of an ATM and all of its uses
 
 <br />
 <br />
