@@ -14,10 +14,10 @@ A program that contains the functionality of an ATM and all of its uses
 
 <p align="center">
 Menu Screen: <br/>
-<img src="https://i.imgur.com/jWp7hnk.png" height="35%" width="35%" alt="Menu Screen"/>
+<img src="https://i.imgur.com/jWp7hnk.png" height="38%" width="38%" alt="Menu Screen"/>
 <br />
 <br />
 Registration Screen: <br/>
-<img src="https://i.imgur.com/nAbXT1k.png" height="37%" width="37%" alt="Registration Screen"/>
+<img src="https://i.imgur.com/nAbXT1k.png" height="40%" width="40%" alt="Registration Screen"/>
 <br />
 <br />
