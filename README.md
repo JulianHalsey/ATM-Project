@@ -18,6 +18,6 @@ Menu Screen: <br/>
 <br />
 <br />
 Registration Screen: <br/>
-<img src="https://i.imgur.com/nAbXT1k.png" height="40%" width="40%" alt="Registration Screen"/>
+<img src="https://i.imgur.com/nAbXT1k.png" height="45%" width="45%" alt="Registration Screen"/>
 <br />
 <br />
